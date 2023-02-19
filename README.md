@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/nrXif9YExO9EI/giphy.gif">
+  <img width="500" src="https://raw.githubusercontent.com/cmndz/cmndz/main/header.gif">
 </p>
 
 ## Hola, soy Carlos Mendez :wave:
@@ -10,7 +10,8 @@ Trabajo como **Personal IT** en **[X-Project S.A.](https://x-project.com.ar/ "Re
 
 En lo personal, me gusta el **Desarrollo Web**, en especial el **Front-End**, aunque cuento con algunos conocimientos de **Back-End**.
 
-### :computer: Tengo conocimientos en la siguientes tecnologias:
+### :computer: Tengo conocimientos en las siguientes tecnologias:
+
 <p>
   <img width="25" height="25" src="https://cmndz.github.io/site/static/media/know-html.18a7821a06307de6d67a3146879b1acc.svg" alt="HTML">
   <img width="25" height="25" src="https://cmndz.github.io/site/static/media/know-css.cbed33cc652613dafa34d091213f3208.svg" alt="CSS">
@@ -24,11 +25,14 @@ En lo personal, me gusta el **Desarrollo Web**, en especial el **Front-End**, au
   <img width="25" height="25" src="https://cmndz.github.io/site/static/media/know-git.bee959520ff38b675cd6e720ffee4126.svg" alt="Git">
 </p>
 
+### :mailbox_with_mail: Contacto:
 
-### 📫 Contacto:
 
-* [LinkedIn](https://www.linkedin.com/in/carlosalfredomendez "Redirigir a mi LinkedIn")
 
-* [Mi Sitio](https://cmndz.github.io/site/ "Redirigir a mi Sitio")
 
-* [Mi Mail](mailto:mendez.calfredo@gmail.com "Redirigir a mi Mail")
+
+
+
+[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-073b4c?style=for-the-badge)](https://www.linkedin.com/in/carlosalfredomendez "Redirigir a mi LinkedIn")
+[![Mi Sitio](https://img.shields.io/badge/%20-Mi%20Sitio-06d6a0?style=for-the-badge)](https://cmndz.github.io/site/ "Redirigir a mi Sitio")
+[![Mi Mail](https://img.shields.io/badge/%20-Mi%20Mail-ef476f?style=for-the-badge)](mailto:mendez.calfredo@gmail.com "Redirigir a mi Mail")
