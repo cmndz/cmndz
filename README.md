@@ -14,9 +14,8 @@ En lo personal, me gusta el **Desarrollo Web**, en especial el **Front-End**, au
 
 <a href="https://github.com/cmndz">
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmndz&layout=compact&locale=es"/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmndz&show_icons=true&locale=es"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmndz&layout=compact&locale=en"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmndz&show_icons=true&locale=en"/>
   </p>
 </a>
 
