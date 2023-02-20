@@ -10,24 +10,31 @@ Trabajo como **Personal IT** en **[X-Project S.A.](https://x-project.com.ar/ "Re
 
 En lo personal, me gusta el **Desarrollo Web**, en especial el **Front-End**, aunque cuento con algunos conocimientos de **Back-End**.
 
-### :computer: Tengo conocimientos en las siguientes tecnologias:
+### :bar_chart: Estadisticas:
 
+<a href="https://github.com/cmndz">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmndz&layout=compact&locale=es"/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmndz&show_icons=true&locale=es"/>
+  </p>
+</a>
 
+### :computer: Tecnologias:
 
-![HTML](https://img.shields.io/badge/%20-HTML-fb8500?style=for-the-badge)
-![CSS](https://img.shields.io/badge/%20-CSS-118ab2?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/%20-JavaScript-ffd166?style=for-the-badge)
-![React](https://img.shields.io/badge/%20-React-4cc9f0?style=for-the-badge)
-![SASS](https://img.shields.io/badge/%20-SASS-ef476f?style=for-the-badge)
-![C](https://img.shields.io/badge/%20-C-073b4c?style=for-the-badge)
-![Python](https://img.shields.io/badge/%20-Python-ffd166?style=for-the-badge)
-![Visual Basic](https://img.shields.io/badge/%20-Visual%20Basic-073b4c?style=for-the-badge)
-![T-SQL](https://img.shields.io/badge/%20-TSQL-ffd166?style=for-the-badge)
-![Git](https://img.shields.io/badge/%20-Git-fb8500?style=for-the-badge)
-
+![HTML](https://img.shields.io/badge/-HTML-FC6D26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
+![C](https://img.shields.io/badge/-C-073b4c?style=for-the-badge&)
+![Python](https://img.shields.io/badge/-Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black)
+![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-073b4c?style=for-the-badge)
+![T-SQL](https://img.shields.io/badge/-TSQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-fb8500?style=for-the-badge&logo=Git&logoColor=white)
 
 ### :mailbox_with_mail: Contacto:
 
-[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-073b4c?style=for-the-badge)](https://www.linkedin.com/in/carlosalfredomendez "Redirigir a mi LinkedIn")
-[![Mi Sitio](https://img.shields.io/badge/%20-Mi%20Sitio-06d6a0?style=for-the-badge)](https://cmndz.github.io/site/ "Redirigir a mi Sitio")
-[![Mi Mail](https://img.shields.io/badge/%20-Mi%20Mail-ef476f?style=for-the-badge)](mailto:mendez.calfredo@gmail.com "Redirigir a mi Mail")
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-073b4c?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlosalfredomendez "Redirigir a mi LinkedIn")
+[![Mi Sitio](https://img.shields.io/badge/-Mi%20Sitio-30B980?style=for-the-badge)](https://cmndz.github.io/site/ "Redirigir a mi Sitio")
+[![Mi Mail](https://img.shields.io/badge/-GMail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mendez.calfredo@gmail.com "Redirigir a mi Mail")
