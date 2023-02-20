@@ -2,7 +2,7 @@
   <img width="500" src="https://raw.githubusercontent.com/cmndz/cmndz/main/header.gif">
 </p>
 
-### :wave: Hola, soy Carlos Mendez
+### :wave: Hola, soy Carlos Alfredo Méndez a.k.a. Kore
 
 Soy un **programador** argentino de 28 años.
 
