@@ -4,9 +4,9 @@
 
 ### :wave: Hola, soy Carlos Méndez
 
-Soy un **programador** argentino de 28 años.
+Soy un **programador** argentino de 30 años.
 
-Trabajo como **Personal IT** en **[X-Project S.A.](https://x-project.com.ar/ "Redirigir a X-Project S.A.")**, desde hace mas de 5 años.
+Trabajo como **Personal IT** en **[X-Project S.A.](https://x-project.com.ar/ "Redirigir a X-Project S.A.")**, desde hace mas de 8 años.
 
 En lo personal, me gusta el **Desarrollo Web**, en especial el **Front-End**, aunque cuento con algunos conocimientos de **Back-End**.
 
