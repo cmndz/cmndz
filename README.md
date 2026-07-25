@@ -1,36 +1,56 @@
-<p align="center">
-  <img width="500" src="https://raw.githubusercontent.com/cmndz/cmndz/main/header.gif">
-</p>
-
-### :wave: Hola, soy Carlos Méndez
-
-**Desarrollador de software** argentino, con más de **8 años** en el rubro.
-
-### :bar_chart: Estadisticas:
-
-<a href="https://github.com/cmndz">
-<p align="center">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmndz&layout=compact&locale=es"/>
-    &nbsp;
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=cmndz&show_icons=true&locale=es"/>
+<br/>
+  <p align="center">
+    <img width="100%" src="https://raw.githubusercontent.com/cmndz/cmndz/main/header.gif">
   </p>
-</a>
+<br/>
 
-### :computer: Tecnologias:
+# 👋🏼 Hola, soy **Carlos Méndez**
 
-![HTML](https://img.shields.io/badge/-HTML-FC6D26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
-![C](https://img.shields.io/badge/-C-073b4c?style=for-the-badge&)
-![Python](https://img.shields.io/badge/-Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black)
-![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-073b4c?style=for-the-badge)
-![T-SQL](https://img.shields.io/badge/-TSQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-fb8500?style=for-the-badge&logo=Git&logoColor=white)
+🎓 **Técnico Universitario en Programación** en proceso ⏳ ![50%](https://geps.dev/progress/50?barColor=00B294)
 
-### :mailbox_with_mail: Contacto:
+💼 Trabajando en el rubro desde **2017**. Actualmente me desempeño como **SQL Developer**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-073b4c?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlosalfredomendez "Redirigir a mi LinkedIn")
-[![Mi Sitio](https://img.shields.io/badge/-Mi%20Sitio-30B980?style=for-the-badge)](https://cmndz.github.io/site/ "Redirigir a mi Sitio")
-[![Mi Mail](https://img.shields.io/badge/-GMail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mendez.calfredo@gmail.com "Redirigir a mi Mail")
+🌎 **Argentino** residiendo en **Argentina, Buenos Aires**
+
+💻 He trabajado con las siguientes **Tecnologías y Herramientas**:
+
+- **Lenguajes de Programación**
+
+  ![CSharp](https://img.shields.io/badge/C_Sharp-512BD4?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48ZyBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJNMTE3LjUgMzMuNWwuMy0uMmMtLjYtMS4xLTEuNS0yLjEtMi40LTIuNmwtNDguMy0yNy44Yy0uOC0uNS0xLjktLjctMy4xLS43LTEuMiAwLTIuMy4zLTMuMS43bC00OCAyNy45Yy0xLjcgMS0yLjkgMy41LTIuOSA1LjR2NTUuN2MwIDEuMS4yIDIuMy45IDMuNGwtLjIuMWMuNS44IDEuMiAxLjUgMS45IDEuOWw0OC4yIDI3LjljLjguNSAxLjkuNyAzLjEuNyAxLjIgMCAyLjMtLjMgMy4xLS43bDQ4LTI3LjljMS43LTEgMi45LTMuNSAyLjktNS40di01NS44Yy4xLS44IDAtMS43LS40LTIuNnptLTUzLjUgNzBjLTIxLjggMC0zOS41LTE3LjctMzkuNS0zOS41czE3LjctMzkuNSAzOS41LTM5LjVjMTQuNyAwIDI3LjUgOC4xIDM0LjMgMjBsLTEzIDcuNWMtNC4yLTcuNS0xMi4yLTEyLjUtMjEuMy0xMi41LTEzLjUgMC0yNC41IDExLTI0LjUgMjQuNXMxMSAyNC41IDI0LjUgMjQuNWM5LjEgMCAxNy4xLTUgMjEuMy0xMi40bDEyLjkgNy42Yy02LjggMTEuOC0xOS42IDE5LjgtMzQuMiAxOS44em01MS00MS41aC0zLjJsLS45IDRoNC4xdjVoLTVsLTEuMiA2aC00LjlsMS4yLTZoLTMuOGwtMS4yIDZoLTQuOGwxLjItNmgtMi41di01aDMuNWwuOS00aC00LjR2LTVoNS4zbDEuMi02aDQuOWwtMS4yIDZoMy44bDEuMi02aDQuOGwtMS4yIDZoMi4ydjV6TTEwMi4zIDY2aDMuOGwuOS00aC0zLjh6Ii8+PC9nPjwvc3ZnPgo=)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj4KPHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTkuNjMzIDcuOTY4aDMuNzUxdjEwLjUxNGMwIDQuNzM4LTIuMjcxIDYuMzkyLTUuODk5IDYuMzkyLTAuODg4IDAtMi4wMjQtMC4xNDgtMi43NjQtMC4zOTVsMC40Mi0zLjAzNmMwLjUxOCAwLjE3MyAxLjE4NSAwLjI5NiAxLjkyNSAwLjI5NiAxLjU4IDAgMi41NjctMC43MTYgMi41NjctMy4yODJ2LTEwLjQ4OXpNMTYuNjQxIDIwLjc1M2MwLjk4NyAwLjUxOCAyLjU2NyAxLjAzNyA0LjE3MSAxLjAzNyAxLjcyOCAwIDIuNjQxLTAuNzE2IDIuNjQxLTEuODI2IDAtMS4wMTItMC43OS0xLjYyOS0yLjc4OS0yLjMyLTIuNzY0LTAuOTg3LTQuNTktMi41MTctNC41OS00Ljk2MSAwLTIuODM4IDIuMzk0LTQuOTg1IDYuMjkzLTQuOTg1IDEuOSAwIDMuMjU4IDAuMzcgNC4yNDUgMC44MzlsLTAuODM5IDMuMDExYy0wLjY0Mi0wLjMyMS0xLjg1MS0wLjc5LTMuNDU1LTAuNzktMS42MjkgMC0yLjQxOSAwLjc2NS0yLjQxOSAxLjYwNCAwIDEuMDYxIDAuOTEzIDEuNTMgMy4wODUgMi4zNjkgMi45MzcgMS4wODYgNC4yOTQgMi42MTYgNC4yOTQgNC45ODUgMCAyLjc4OS0yLjEyMiA1LjE1OC02LjY4OCA1LjE1OC0xLjkgMC0zLjc3Ni0wLjUxOC00LjcxNC0xLjAzN2wwLjc2NS0zLjA4NXoiPjwvcGF0aD4KPC9zdmc+) 
+
+- **Desarrollo Web | Frontend** 
+
+  ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEzNjBwdCIgdmlld0JveD0iLTAuMSAzMzIuNSAxMTk5LjMgMTM2MC4zIiB3aWR0aD0iMTYwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik0uNCAzMzYuMkMuNyAzMzggMjUuMyA2MTMuMyA1NS4xIDk0OHM1NC4yIDYwOC42IDU0LjMgNjA4LjcgMTEwLjIgMzAuOCAyNDQuOCA2OC4xbDI0NC43IDY4IDI0NS4zLTY4YzEzNC45LTM3LjQgMjQ1LjQtNjguMSAyNDUuNC02OC4yLjEgMCAyNC41LTI3My43IDU0LjMtNjA4LjFzNTQuNC02MDkuNyA1NC43LTYxMS44bC42LTMuN0gtLjF6bTk3NC42IDI0OWMwIDIuMi03LjEgODIuMS00OC45IDU1MC4yLTEwLjQgMTE2LjUtMTkuMyAyMTIuMi0xOS44IDIxMi42LTEuMSAxLTMwNC43IDg1LTMwNy4xIDg1LTEuOSAwLTMwNy04NC40LTMwNy43LTg1LjItLjItLjItNC45LTUxLjQtMTAuNC0xMTMuOC01LjYtNjIuNC0xMC4zLTExNS40LTEwLjctMTE3LjhsLS41LTQuMmg3NS41YzQxLjYgMCA3NS42LjEgNzUuNy4yIDAgLjIgMi40IDI3IDUuNCA1OS42IDIuOSAzMi43IDUuNSA1OS41IDUuNyA1OS43czM3LjcgMTAuNSA4My41IDIyLjhsODMuMSAyMi41IDgzLjMtMjIuNWM0NS45LTEyLjQgODMuNi0yMi43IDgzLjgtMjIuOC40LS41IDE3LTE4NS43IDE3LjEtMTkwLjh2LTMuN0gyNjN2LTIuNWMwLTEuNC0yLjktMzUuMS02LjUtNzQuOHMtNi41LTcyLjMtNi41LTcyLjVjMC0uMSAxMjMuMS0uMiAyNzMuNS0uMkg3OTd2LTIuNWMwLTEuMyAyLjktMzUuMyA2LjUtNzUuMyAzLjYtNDAuMSA2LjUtNzMuNyA2LjUtNzQuNiAwLTEuNS0yMi4xLTEuNi0yODYuNy0xLjhsLTI4Ni44LS4zLTYuMS02OGMtMy40LTM3LjQtNi41LTcxLTYuOS03NC44bC0uNi02LjdIOTc1eiIgZmlsbD0id2hpdGUiLz4NCjwvc3ZnPg0K) 
+  ![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+  ![Google Icons](https://img.shields.io/badge/Google%20Icons-%234285F4.svg?style=flat&logo=google&logoColor=white)
+
+- **Desarrollo Web | Backend** 
+
+  ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-%236A3E99.svg?)
+  ![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET_Core_Web_API-%236A3E99.svg?)
+
+- **Acceso y Bases de Datos** 
+
+  ![ADO.NET](https://img.shields.io/badge/ADO_.NET-%233562AA.svg?)
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-cfd8dc?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjIyIiBoZWlnaHQ9Ijc3OCIgdmlld0JveD0iMCAwIDYyMiA3NzgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0iI0NDMjkyNyI+CjxwYXRoIGQ9Ik00MTguNzMyIDM5OC41QzQzNi43MzIgNTU2LjEgMzc0Ljg5OSA3MTcuMTY3IDM0MS43MzIgNzc4Qzg1LjY5NDMgNzYzLjY1NiA0LjMxNjE0IDcwMSAwLjIzMjI3OCA2NTBDLTMuMDE3MjggNjA5LjQxOSAyOC4zMzIxIDU2Mi43IDYyLjczMjEgNTM0QzExNi4zMzIgNDkzLjYgMzIyLjM5OSA0MjYuODMzIDQxOC43MzIgMzk4LjVaIi8+CjxwYXRoIGQ9Ik0xMjIuNzMyIDk4TDM0OC4yMzIgMTQ3QzMwMC4yMzIgNTguMiAyODYuMjMyIDEyIDI4NS4yMzIgMEwxMjIuNzMyIDk4WiIvPgo8cGF0aCBkPSJNMjE0Ljg4MiAyNjUuOTQzQzIxNy44NjggMjY2LjQwMSAyMjAuODI0IDI2Ni44NzcgMjIzLjc0MiAyNjcuMzc3QzI0OS4wODIgMjcxLjcxOSAyNzMuOTk4IDI3Ny41MzIgMjk4LjA3NiAyODQuMjkyQzI0Ni4zNzEgMzUxLjUzMyAxODMuMjcxIDQwNy4xODcgMTMyLjI0MSA0NDYuNDkxQzExNy44MjEgNDU3LjU5OCAxMDQuMzk5IDQ2Ny4zNyA5Mi41MTk0IDQ3NS43MDNDMTMyLjAxNCA0NDMuNTM2IDE3Ni44NTEgNDAzLjE2NiAyMDAuMjgyIDM1NC41OTZDMjEzLjMxOCAzMjcuNTc0IDIxOS43MTcgMjk4LjAyNiAyMTQuODgyIDI2NS45NDNaTTMyOS43MDkgMjkzLjg0MUMzNTQuNzc4IDMwMS45MzIgMzc4LjY1OCAzMTAuODU5IDQwMC44MzEgMzE5Ljk3MUMzNjguMTY5IDM1Mi44MTMgMzMzLjMzMiAzODEuNzQ3IDMwMC4zMTEgNDA2LjI3N0MyNTguNDI5IDQxOS40NiAyMTguMTcxIDQzMi45MDYgMTgyLjQ1NiA0NDYuMDUxQzIyOS44NSA0MDYuNzkyIDI4My4yMDYgMzU1LjkzNiAzMjcuOTE3IDI5Ni4yNTJDMzI4LjUxNSAyOTUuNDUzIDMyOS4xMTEgMjk0LjY0OCAzMjkuNzA5IDI5My44NDFaTTQzMS4zNzUgMzMzLjA4MkM0MzguNDU1IDMzNi4yNTEgNDQ1LjMwMSAzMzkuNDA1IDQ1MS44OSAzNDIuNTE3QzQ2MC40OTggMzQ2LjU4MiA0NjguNjU2IDM1MC41NzQgNDc2LjMxNyAzNTQuNDIzQzQ0NS4xMzQgMzYzLjEwOCA0MTIuNTMgMzcyLjQwOCAzNzkuODExIDM4Mi4wNzFDMzk3LjI2NiAzNjYuODE3IDQxNC42MjcgMzUwLjQ3IDQzMS4zNzUgMzMzLjA4MlpNNTE5LjkzNCAyMjEuMTY4QzU2OS45NDQgMjQ2LjA1NCA2MDMuMzY3IDI4Mi45MTEgNjIxLjY2NiAzMTQuNzUxTDYyMS45OTMgMzE1LjMxOUw2MjEuMzU3IDMxNS40ODRDNTkyLjkxNCAzMjIuODQ2IDU1OC4yNiAzMzEuOTc5IDUyMC4xOTYgMzQyLjM0QzUwNC45NDIgMzM0LjA4NyA0ODYuMzU5IDMyNC41MTMgNDY1LjEyOSAzMTQuNDg2QzQ2MS4zMzUgMzEyLjY5NCA0NTcuNDU0IDMxMC44ODcgNDUzLjQ5IDMwOS4wNjlDNDUzLjY2MSAzMDguODc1IDQ1My44MzQgMzA4LjY4MiA0NTQuMDA1IDMwOC40ODdDNDc4LjA4NSAyODEuMDM2IDUwMS45MzEgMjQ3LjggNTE5LjkzNCAyMjEuMTY4Wk0zOTguNjA0IDE4My4xNjJDNDE0Ljc4NSAxODcuMjU4IDQzMC4xMzcgMTkxLjMxMSA0NDQuMTk1IDE5NS4yMjNDNDYyLjA0NiAyMDAuMTkgNDc3LjgyIDIwNC45MzQgNDkwLjU1NyAyMDkuMjVDNDczLjQwMiAyMzQuMzUxIDQ1MS45NzUgMjYzLjc5MiA0MzAuNzAxIDI4OC4wNDRDNDI4LjM4IDI5MC42OSA0MjYuMDM3IDI5My4zMTMgNDIzLjY3OSAyOTUuOTE2QzQwMC40NCAyODYuMDY2IDM3NS4wOTkgMjc2LjI3MSAzNDguMjY2IDI2Ny4zMUMzNjMuMiAyNDQuODU5IDM3Ny4wNTQgMjIxLjU0MSAzODguMTU3IDIwMS45NDRDMzkxLjk3NCAxOTUuMjA4IDM5NS40NzcgMTg4Ljg4NiAzOTguNjA0IDE4My4xNjJaTTEyOS44IDEyNy41MDVDMTc3LjIxOSAxMzMuOTM4IDI1OS43MzIgMTUwLjM2NiAzMzcuMDcyIDE2OC4yODRDMzQ3LjMyMSAxNzAuNjU5IDM1Ny40OCAxNzMuMDYgMzY3LjQ1NSAxNzUuNDY4QzM2NS40NzkgMTc5LjAzMyAzNjMuMzg2IDE4Mi43NzggMzYxLjE4NSAxODYuNjYzQzM0OC45NjMgMjA4LjIzNyAzMzMuNjE0IDIzMy45MTYgMzE3LjQyNCAyNTcuNjA1QzI4OS4wMzkgMjQ5LjIzMSAyNTkuMzQzIDI0Mi4wMjYgMjI4Ljk3NyAyMzYuODIzQzIyMS41NzcgMjM1LjU1NSAyMTMuOTcyIDIzNC40MjUgMjA2LjI4MiAyMzMuNDE0QzE5My45NzQgMjAwLjc5OCAxNjkuNzQ4IDE2NS43NzkgMTI5LjM5MiAxMjguMzY2TDEyOC4yMzMgMTI3LjI5MkwxMjkuOCAxMjcuNTA1WiIvPgo8L3N2Zz4K)
+
+- **Herramientas de Desarrollo**
+  
+  ![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?&logo=godotengine&logoColor=ffffff)
+  ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-8661C5?style=flat&logo=visual-studio&logoColor=white) 
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+- **Herramientas de Diseño / Multimedia**
+
+  ![Figma](https://img.shields.io/badge/Figma-%239D56F7.svg?style=flat&logo=figma&logoColor=white)
+
+📬 **Contacto**:
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K)](https://www.linkedin.com/in/mendezcalfredo/ "Redirigir a LinkedIn")
+  [![Mi Sitio](https://img.shields.io/badge/-Mi%20Sitio-121011?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMCkiPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTIwMC4wMDIgMTQ1LjAwMkwxNDUuMDAyIDIwMC4wMDJMMTI3LjUyMSAxODIuNTIxTDE2NC45NTYgMTQ1LjA4NkwxNjQuOTE2IDE0NS4wNDZMMTY0Ljk0NCAxNDUuMDE4TDU5Ljk4MTcgNDAuMDU1N0w3Ny41MTg3IDIyLjUxODdMMTAwLjAwMSA0NS4wMDEyTDEwMC4wMTMgNDQuOTg5NkwxMTcuNTY1IDYyLjU0MTdMMTE3LjU1MyA2Mi41NTMzTDEzNy40NiA4Mi40NTk2TDEzNy40NzEgODIuNDQ4TDE1NS4wMTMgOTkuOTg5NkwxNTUuMDAxIDEwMC4wMDFMMjAwLjAwMiAxNDUuMDAyWk0xNDAuMzY5IDE1OS42ODRMMTIyLjUyNiAxNzcuNTI2TDEwMC4wMDEgMTU1LjAwMUw5OS45ODk1IDE1NS4wMTNMODIuNDQ4IDEzNy40NzFMODIuNDU5NiAxMzcuNDZMNjIuNTUzMyAxMTcuNTUzTDYyLjU0MTcgMTE3LjU2NUw0NC45ODk1IDEwMC4wMTNMNDUuMDAxMiAxMDAuMDAxTDAgNTVMNTUgMEw3Mi41MjM1IDE3LjUyMzVMMzUuNTYzMSA1NC40ODRMMzUuNjYzMSA1NC41ODRMMzUuNDY2NCA1NC43ODA3TDE0MC4zNjkgMTU5LjY4NFpNMTQyLjQ0OCA3Ny40NzEyTDE1OS45NzEgNTkuOTQ4TDE2MC4wMiA1OS45OTcxTDE2NC45OTcgNTUuMDIwM0wxMjcuNDkgMTcuNTEyOEwxNDUuMDAyIDBMMjAwLjAwMiA1NUwxNTkuOTkgOTUuMDEyOEwxNDIuNDQ4IDc3LjQ3MTJaTTEwNC45OSA0MC4wMTI4TDEyMi41MTMgMjIuNDg5NkwxNDAuMDY1IDQwLjA0MThMMTIyLjU0MiA1Ny41NjQ5TDEwNC45OSA0MC4wMTI4Wk01NSAyMDAuMDAyTDAgMTQ1LjAwMkw0MC4wMTI3IDEwNC45OUw1Ny41NjQ5IDEyMi41NDJMNDAuMDQxOCAxNDAuMDY1TDQwLjAyNzggMTQwLjA1MUwzNS4wNTEgMTQ1LjAyOEw3Mi41MTI4IDE4Mi40OUw1NSAyMDAuMDAyWk03Ny40ODk2IDE3Ny41MTNMOTUuMDEyNyAxNTkuOTlMNzcuNDcxMiAxNDIuNDQ4TDU5Ljk0OCAxNTkuOTcxTDc3LjQ4OTYgMTc3LjUxM1pNMTIyLjQ5IDEzMi41MTNMMTMyLjUxMyAxMjIuNDlMMTE0Ljk3MSAxMDQuOTQ4TDEwNC45NDggMTE0Ljk3MUwxMjIuNDkgMTMyLjUxM1pNNzcuNTEyNyA2Ny40ODk2TDk1LjA2NDkgODUuMDQxOEw4NS4wNDE3IDk1LjA2NUw2Ny40ODk1IDc3LjUxMjhMNzcuNTEyNyA2Ny40ODk2WiIgZmlsbD0iI0ZGRkZGRiIvPgo8L2c+CjxkZWZzPgo8Y2xpcFBhdGggaWQ9ImNsaXAwIj4KPHJlY3Qgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9IndoaXRlIi8+CjwvY2xpcFBhdGg+CjwvZGVmcz4KPC9zdmc+Cg==)](https://cmndz.github.io/site/ "Redirigir a mi Sitio")
+  [![Mi Mail](https://img.shields.io/badge/-GMail-EA4335?logo=Gmail&logoColor=white)](mailto:mendez.calfredo@gmail.com "Redirigir a GMail")
